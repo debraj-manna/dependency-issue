@@ -35,7 +35,7 @@
         <dependency>
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
-            <version>23.5-jre</version>
+            <version>29.0-jre</version>
         </dependency>
         <!-- added for the @nullable etc javax.annotations used by guava and our internal modules  -->
         <dependency>
