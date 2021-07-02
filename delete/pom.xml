@@ -14,7 +14,7 @@
     <name>delete</name>
 
     <properties>
-        <es.version>5.6.16</es.version>
+        <es.version>6.8.15</es.version>
     </properties>
 
 
